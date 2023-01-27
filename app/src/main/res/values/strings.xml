@@ -1,0 +1,114 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Burmese For Kids</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family</string>
+
+    <!-- In Burmese -->
+    <!-- Number words -->
+    <string name="one_mm">တစ်</string>
+    <string name="two_mm">နှစ်</string>
+    <string name="three_mm">သုံး</string>
+    <string name="four_mm">လေး</string>
+    <string name="five_mm">ငါး</string>
+    <string name="six_mm">ခြောက်</string>
+    <string name="seven_mm">ခုနစ်</string>
+    <string name="eight_mm">ရှစ်</string>
+    <string name="nine_mm">ကိုး</string>
+    <string name="ten_mm">တစ်ဆယ်</string>
+
+    <!-- Family Member words -->
+    <string name="father_mm">အဖေ</string>
+    <string name="mother_mm">အမေ</string>
+    <string name="son_mm">သား</string>
+    <string name="daughter_mm">သမီး</string>
+    <string name="older_brother_mm">အစ်ကို</string>
+    <string name="younger_brother_mm">ညီ</string>
+    <string name="older_sister_mm">အစ်မ</string>
+    <string name="younger_sister_mm">ညီမ</string>
+    <string name="grandfather_mm">အဘိုး</string>
+    <string name="grandmother_mm">အဘွား</string>
+
+    <!-- Color words -->
+    <string name="red_mm">အနီရောင်</string>
+    <string name="blue_mm">အပြာရောင်</string>
+    <string name="green_mm">အစိမ်းရောင်</string>
+    <string name="yellow_mm">အ၀ါရောင်</string>
+    <string name="pink_mm">ပန်းရောင်</string>
+    <string name="black_mm">အမဲရောင်</string>
+    <string name="white_mm">အဖြူရောင်</string>
+    <string name="brown_mm">အညိုရောင်</string>
+    <string name="purple_mm">ခရမ်းရောင်</string>
+    <string name="gray_mm">မီးခိုးရောင်</string>
+
+    <!-- Phrase words -->
+    <string name="where_are_you_going_mm">သင် ဘယ်သွားမလို့လဲ</string>
+    <string name="what_is_your_name_mm">သင့်နာမည် ဘယ်လိုခေါ်လဲ</string>
+    <string name="my_name_is_mm">ကျွန်တော့်/ကျွန်မ နာမည်က …</string>
+    <string name="how_are_you_feeling_mm">သင် ဘယ်လိုနေလဲ</string>
+    <string name="i_am_feeling_good_mm">ကျွန်တော်/ကျွန်မ သက်သာပါတယ်</string>
+    <string name="are_you_coming_mm">သင် လာမှာလား</string>
+    <string name="yes_i_am_coming_mm">ဟုတ်ကဲ့ ကျွန်တော်/ကျွန်မလာမှာပါ</string>
+    <string name="good_morning_mm">ကောင်းသောနံနက်ခင်းပါ</string>
+    <string name="let_is_go_mm">သွားရ‌အောင်</string>
+    <string name="come_here_mm">ဒီကို လာပါ</string>
+
+    <!-- In English -->
+    <!-- Number words -->
+    <string name="one_eng">One</string>
+    <string name="two_eng">Two</string>
+    <string name="three_eng">Three</string>
+    <string name="four_eng">Four</string>
+    <string name="five_eng">Five</string>
+    <string name="six_eng">Six</string>
+    <string name="seven_eng">Seven</string>
+    <string name="eight_eng">Eight</string>
+    <string name="nine_eng">Nine</string>
+    <string name="ten_eng">Ten</string>
+
+    <!-- Family Member words -->
+    <string name="father_eng">Father</string>
+    <string name="mother_eng">Mother</string>
+    <string name="son_eng">Son</string>
+    <string name="daughter_eng">Daughter</string>
+    <string name="older_brother_eng">Older brother</string>
+    <string name="younger_brother_eng">Younger brother</string>
+    <string name="older_sister_eng">Older sister</string>
+    <string name="younger_sister_eng">Younger sister</string>
+    <string name="grandfather_eng">Grandfather</string>
+    <string name="grandmother_eng">Grandmother</string>
+
+    <!-- Color words -->
+    <string name="red_eng">Red</string>
+    <string name="blue_eng">Blue</string>
+    <string name="green_eng">Green</string>
+    <string name="yellow_eng">Yellow</string>
+    <string name="pink_eng">Pink</string>
+    <string name="black_eng">Black</string>
+    <string name="white_eng">White</string>
+    <string name="brown_eng">Brown</string>
+    <string name="purple_eng">Purple</string>
+    <string name="gray_eng">Gray</string>
+
+    <!-- Phrase words -->
+    <string name="where_are_you_going_eng">Where are you going?</string>
+    <string name="what_is_your_name_eng">What is your name?</string>
+    <string name="my_name_is_eng">My name is …</string>
+    <string name="how_are_you_feeling_eng">How are you feeling?</string>
+    <string name="i_am_feeling_good_eng">I\'m feeling good.</string>
+    <string name="are_you_coming_eng">Are you coming?</string>
+    <string name="yes_i_am_coming_eng">Yes, I\'m coming.</string>
+    <string name="good_morning_eng">Good morning!</string>
+    <string name="let_is_go_eng">Let\'s go.</string>
+    <string name="come_here_eng">Come here.</string>
+</resources>
