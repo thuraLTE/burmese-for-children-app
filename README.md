@@ -1,4 +1,4 @@
-# burmese-for-children-app
+# Burmese For Children App
 A beginner-friendly app built for non-Burmese infants &amp; kindergarten students who are willing to learn foundational Burmese language.
 
 Android Widgets/Apis/Libraries Used
